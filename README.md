@@ -1,6 +1,6 @@
 # Free VPN Configs
 
-Updated: `2026-07-14 22:59 UTC`
+Updated: `2026-07-14 23:27 UTC`
 
 > Configs are Base64 encoded. Decode before use.
 
@@ -8,14 +8,14 @@ Updated: `2026-07-14 22:59 UTC`
 
 | Protocol | Countries | Configs |
 |----------|-----------|--------|
-| VLESS | 10 | 94 |
-| VMESS | 4 | 17 |
-| TROJAN | 3 | 5 |
-| SS | 10 | 214 |
+| VLESS | 10 | 194 |
+| VMESS | 5 | 24 |
+| TROJAN | 7 | 70 |
+| SS | 10 | 328 |
 
 ## Top Countries
 
-RU, US, NL, GB, DE, FR, JP, CA, IR, FI
+DE, FR, US, RU, NL, GB, JP, TR, IR, HK
 
 ## How to use
 
