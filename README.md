@@ -1,6 +1,8 @@
 # Free VPN Configs
 
-Updated: `2026-07-14 22:36 UTC`
+Updated: `2026-07-14 22:42 UTC`
+
+> Configs are Base64 encoded. Decode before use.
 
 ## Stats
 
@@ -15,7 +17,10 @@ Updated: `2026-07-14 22:36 UTC`
 
 RU, US, NL, GB, DE, FR, JP, CA, IR, FI
 
-## Usage
+## How to use
 
-Each file contains configs sorted by latency (fastest first).
-Pick any config from the protocol and country you need.
+1. Copy any line from the file
+2. Decode from Base64
+3. Import into your VPN client
+
+**Linux/Mac:** `echo 'BASE64STRING' | base64 -d`

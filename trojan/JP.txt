@@ -1,3 +1,3 @@
-trojan://PI36027154@busy-lab.rooster465.autos:443?allowInsecure=0&amp;sni=busy-lab.rooster465.autos#🇯🇵
-trojan://PI36027154@faithful-clam.rooster465.autos:443?allowInsecure=0&amp;sni=faithful-clam.rooster465.autos#🇯🇵
-trojan://PI36027154@stirred-buck.rooster465.autos:443?allowInsecure=0&amp;sni=stirred-buck.rooster465.autos#🇯🇵
+dHJvamFuOi8vUEkzNjAyNzE1NEBidXN5LWxhYi5yb29zdGVyNDY1LmF1dG9zOjQ0Mz9hbGxvd0luc2VjdXJlPTAmYW1wO3NuaT1idXN5LWxhYi5yb29zdGVyNDY1LmF1dG9zI/Cfh6/wn4e1
+dHJvamFuOi8vUEkzNjAyNzE1NEBmYWl0aGZ1bC1jbGFtLnJvb3N0ZXI0NjUuYXV0b3M6NDQzP2FsbG93SW5zZWN1cmU9MCZhbXA7c25pPWZhaXRoZnVsLWNsYW0ucm9vc3RlcjQ2NS5hdXRvcyPwn4ev8J+HtQ==
+dHJvamFuOi8vUEkzNjAyNzE1NEBzdGlycmVkLWJ1Y2sucm9vc3RlcjQ2NS5hdXRvczo0NDM/YWxsb3dJbnNlY3VyZT0wJmFtcDtzbmk9c3RpcnJlZC1idWNrLnJvb3N0ZXI0NjUuYXV0b3Mj8J+Hr/Cfh7U=
