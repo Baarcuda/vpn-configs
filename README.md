@@ -1,6 +1,6 @@
 # Free VPN Configs
 
-Updated: `2026-07-14 23:27 UTC`
+Updated: `2026-07-14 23:41 UTC`
 
 > Configs are Base64 encoded. Decode before use.
 
