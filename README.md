@@ -1,10 +1,10 @@
 # 🔐 Free VPN Configs
 
 ![Updated](https://img.shields.io/badge/updated-2026---07---15-blue)
-![Configs](https://img.shields.io/badge/working%20configs-899-green)
+![Configs](https://img.shields.io/badge/working%20configs-699-green)
 ![Top100](https://img.shields.io/badge/top100-fastest-orange)
 
-Updated: `2026-07-15 14:43 UTC`
+Updated: `2026-07-15 15:36 UTC`
 
 > Configs are **Base64 encoded**. Decode before use.
 
@@ -20,14 +20,14 @@ Best configs sorted by latency across all protocols:
 
 | Protocol | Countries | Configs |
 |----------|:---------:|:-------:|
-| VLESS | 10 | 333 |
-| VMESS | 5 | 57 |
-| TROJAN | 7 | 144 |
-| SS | 10 | 365 |
+| VLESS | 10 | 325 |
+| VMESS | 6 | 60 |
+| TROJAN | 8 | 150 |
+| SS | 9 | 164 |
 
 ## 🌍 Top Countries
 
-🇩🇪 DE · 🇫🇷 FR · 🇺🇸 US · 🇳🇱 NL · 🇷🇺 RU · 🇬🇧 GB · 🇯🇵 JP · 🌐 SC · 🇭🇰 HK · 🇵🇱 PL
+🇩🇪 DE · 🇫🇷 FR · 🇺🇸 US · 🇳🇱 NL · 🇬🇧 GB · 🇷🇺 RU · 🇯🇵 JP · 🌐 SC · 🇸🇬 SG · 🇭🇰 HK
 
 ---
 
