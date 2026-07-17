@@ -1,10 +1,10 @@
 # 🔐 Free VPN Configs
 
-![Updated](https://img.shields.io/badge/updated-2026---07---16-blue)
+![Updated](https://img.shields.io/badge/updated-2026---07---17-blue)
 ![Configs](https://img.shields.io/badge/working%20configs-438-green)
 ![Top100](https://img.shields.io/badge/top100-fastest-orange)
 
-Updated: `2026-07-16 22:00 UTC`
+Updated: `2026-07-17 04:00 UTC`
 
 > Configs are **Base64 encoded subscription format**. Add URL directly to your VPN client.
 
