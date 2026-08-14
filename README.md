@@ -4,7 +4,7 @@
 ![Configs](https://img.shields.io/badge/working%20configs-256-green)
 ![Top100](https://img.shields.io/badge/top100-fastest-orange)
 
-Updated: `2026-08-14 07:00 UTC`
+Updated: `2026-08-14 10:00 UTC`
 
 > Configs are **Base64 encoded subscription format**. Add URL directly to your VPN client.
 
