@@ -1,10 +1,10 @@
 # 🔐 Free VPN Configs
 
-![Updated](https://img.shields.io/badge/updated-2026---08---28-blue)
-![Configs](https://img.shields.io/badge/working%20configs-375-green)
+![Updated](https://img.shields.io/badge/updated-2026---08---29-blue)
+![Configs](https://img.shields.io/badge/working%20configs-394-green)
 ![Top100](https://img.shields.io/badge/top100-fastest-orange)
 
-Updated: `2026-08-28 22:00 UTC`
+Updated: `2026-08-29 00:37 UTC`
 
 > Configs are **Base64 encoded subscription format**. Add URL directly to your VPN client.
 
@@ -21,36 +21,32 @@ https://raw.githubusercontent.com/Baarcuda/vpn-configs/master/top100.txt
 
 ---
 
+## Top 100 Fastest VLESS
+
+Best VLESS configs sorted by latency:
+
+**[top100-vless.txt](./top100-vless.txt)**
+
+**Subscription URL:**
+```
+https://raw.githubusercontent.com/Baarcuda/vpn-configs/master/top100-vless.txt
+```
+
+---
+
 ## 📊 Stats
 
 | Protocol | Countries | Configs |
 |----------|:---------:|:-------:|
-| VLESS | 10 | 139 |
-| VMESS | 6 | 98 |
-| TROJAN | 9 | 20 |
-| SS | 10 | 118 |
+| VLESS | 10 | 162 |
+| VMESS | 6 | 102 |
+| TROJAN | 1 | 7 |
+| SS | 10 | 120 |
+| HY2 | 2 | 3 |
 
 ## 🌍 Top Countries
 
-🇺🇸 US · 🇬🇧 GB · 🇷🇺 RU · 🇭🇰 HK · 🇩🇪 DE · 🇵🇱 PL · 🇳🇱 NL · 🇯🇵 JP · 🇫🇷 FR · 🇸🇬 SG
-
----
-
-## 📁 Structure
-
-```
-top100.txt          # 100 fastest configs (all protocols)
-vless/XX.txt        # VLESS by country
-vmess/XX.txt        # VMESS by country
-trojan/XX.txt       # Trojan by country
-ss/XX.txt           # Shadowsocks by country
-```
-
-## 🚀 How to use
-
-1. Copy the subscription URL
-2. Add to your VPN client (Karing, Hiddify, v2rayNG, etc.)
-3. Update subscription
+🇺🇸 US · 🇬🇧 GB · 🇷🇺 RU · 🇭🇰 HK · 🇩🇪 DE · 🇵🇱 PL · 🇫🇷 FR · 🇯🇵 JP · 🇳🇱 NL · 🇹🇼 TW
 
 ---
 
