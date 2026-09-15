@@ -1,10 +1,10 @@
 # 🔐 Free VPN Configs
 
 ![Updated](https://img.shields.io/badge/updated-2026---09---15-blue)
-![Configs](https://img.shields.io/badge/working%20configs-198-green)
+![Configs](https://img.shields.io/badge/working%20configs-186-green)
 ![Top100](https://img.shields.io/badge/top100-fastest-orange)
 
-Updated: `2026-09-15 10:00 UTC`
+Updated: `2026-09-15 13:00 UTC`
 
 > Configs are **Base64 encoded subscription format**. Add URL directly to your VPN client.
 
@@ -38,15 +38,15 @@ https://raw.githubusercontent.com/Baarcuda/vpn-configs/master/top100-vless.txt
 
 | Protocol | Countries | Configs |
 |----------|:---------:|:-------:|
-| VLESS | 10 | 106 |
-| VMESS | 4 | 22 |
+| VLESS | 10 | 99 |
+| VMESS | 4 | 19 |
 | TROJAN | 2 | 6 |
-| SS | 6 | 55 |
-| HY2 | 4 | 9 |
+| SS | 6 | 54 |
+| HY2 | 4 | 8 |
 
 ## 🌍 Top Countries
 
-🇺🇸 US · 🇬🇧 GB · 🇷🇺 RU · 🇩🇪 DE · 🇵🇱 PL · 🇭🇰 HK · 🇳🇱 NL · 🇧🇬 BG · 🇲🇩 MD · 🇹🇼 TW
+🇺🇸 US · 🇬🇧 GB · 🇷🇺 RU · 🇩🇪 DE · 🇵🇱 PL · 🇭🇰 HK · 🇳🇱 NL · 🇲🇩 MD · 🇹🇼 TW · 🇧🇬 BG
 
 ---
 
