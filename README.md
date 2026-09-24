@@ -4,7 +4,7 @@
 ![Configs](https://img.shields.io/badge/working%20configs-216-green)
 ![Top100](https://img.shields.io/badge/top100-fastest-orange)
 
-Updated: `2026-09-24 04:00 UTC`
+Updated: `2026-09-24 07:00 UTC`
 
 > Configs are **Base64 encoded subscription format**. Add URL directly to your VPN client.
 
@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/Baarcuda/vpn-configs/master/top100-vless.txt
 
 ## 🌍 Top Countries
 
-🇺🇸 US · 🇬🇧 GB · 🇷🇺 RU · 🇩🇪 DE · 🇵🇱 PL · 🇳🇱 NL · 🇲🇩 MD · 🇧🇬 BG · 🇷🇸 RS · 🇭🇰 HK
+🇺🇸 US · 🇬🇧 GB · 🇩🇪 DE · 🇷🇺 RU · 🇵🇱 PL · 🇳🇱 NL · 🇲🇩 MD · 🇧🇬 BG · 🇷🇸 RS · 🇭🇰 HK
 
 ---
 
