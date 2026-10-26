@@ -1,16 +1,14 @@
-# 🔐 Free VPN Configs
+<p align="left"><img src="./header.svg" alt="VPN Configs Black Lists" width="650" /></p>
 
-![Updated](https://img.shields.io/badge/updated-2026---10---26-blue)
-![Configs](https://img.shields.io/badge/working%20configs-71-green)
-![Top100](https://img.shields.io/badge/top100-fastest-orange)
+![Configs](https://img.shields.io/badge/working%20configs-234-green) ![Top100](https://img.shields.io/badge/top100-fastest-orange)
 
-Updated: `2026-10-26 10:00 UTC`
+Updated: `2026-10-26 18:48 UTC`
 
 > Configs are **Base64 encoded subscription format**. Add URL directly to your VPN client.
 
-## ⚡ Top 100 Fastest Configs
+<p align="left"><img src="./title_top100.svg" alt="Top 100 Fastest Configs" width="460" /></p>
 
-Best configs sorted by latency across all protocols:
+Best configs sorted by latency & speed across all protocols:
 
 📄 **[top100.txt](./top100.txt)**
 
@@ -21,9 +19,9 @@ https://raw.githubusercontent.com/Baarcuda/vpn-configs/master/top100.txt
 
 ---
 
-## ⚡ Top 100 Fastest VLESS
+<p align="left"><img src="./title_vless.svg" alt="Top 100 Fastest VLESS" width="460" /></p>
 
-Best VLESS configs sorted by latency:
+Best VLESS configs sorted by speed & latency:
 
 📄 **[top100-vless.txt](./top100-vless.txt)**
 
@@ -38,15 +36,11 @@ https://raw.githubusercontent.com/Baarcuda/vpn-configs/master/top100-vless.txt
 
 | Protocol | Countries | Configs |
 |----------|:---------:|:-------:|
-| VLESS | 7 | 31 |
-| VMESS | 3 | 15 |
-| TROJAN | 2 | 7 |
-| SS | 1 | 16 |
-| HY2 | 2 | 2 |
-
-## 🌍 Top Countries
-
-🇬🇧 GB · 🇷🇸 RS · 🇭🇰 HK · 🇲🇩 MD · 🇧🇬 BG · 🇩🇪 DE · 🇺🇸 US · 🇸🇬 SG · 🇰🇷 KR · 🇯🇵 JP
+| VLESS | 7 | 78 |
+| VMESS | 6 | 18 |
+| TROJAN | 8 | 33 |
+| SS | 8 | 94 |
+| HY2 | 4 | 11 |
 
 ---
 
