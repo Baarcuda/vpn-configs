@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 70" width="100%" height="70">
   <defs>
-    <!-- Медленный пульсирующий зелёный градиент для "VPN Configs" -->
     <linearGradient id="greenPulse" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#10b981">
         <animate attributeName="stop-color" values="#10b981;#34d399;#059669;#10b981" dur="6s" repeatCount="indefinite" />
@@ -13,7 +12,6 @@
       </stop>
     </linearGradient>
 
-    <!-- Свечение для аккуратной оранжевой искры -->
     <filter id="sparkGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
       <feMerge>
@@ -37,7 +35,6 @@
         fill: #050505;
         letter-spacing: -0.5px;
       }
-      /* Деликатная обводка для черного текста в Dark Mode GitHub */
       @media (prefers-color-scheme: dark) {
         .title-black {
           fill: #09090b;
@@ -48,13 +45,11 @@
     </style>
   </defs>
 
-  <!-- Текст заголовка -->
   <text x="10" y="48">
     <tspan class="title-vpn">VPN Configs</tspan>
     <tspan dx="16" class="title-black">Black Lists</tspan>
   </text>
 
-  <!-- Маленькая, не яркая, но заметная оранжевая искра, медленно движущаяся по кругу букв "VPN Configs" -->
   <circle r="3.2" fill="#ff7a00" filter="url(#sparkGlow)" opacity="0.92">
     <animateMotion
       path="M 12 18 L 265 18 A 12 12 0 0 1 265 54 L 12 54 A 12 12 0 0 1 12 18 Z"
