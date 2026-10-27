@@ -1,8 +1,8 @@
 <p align="left"><img src="./header.svg" alt="VPN Configs Black Lists" width="650" /></p>
 
-![Configs](https://img.shields.io/badge/working%20configs-284-green) ![Top100](https://img.shields.io/badge/top100-fastest-orange)
+![Configs](https://img.shields.io/badge/working%20configs-309-green) ![Top100](https://img.shields.io/badge/top100-fastest-orange)
 
-Updated: `2026-10-27 07:00 UTC`
+Updated: `2026-10-27 10:00 UTC`
 
 > Configs are **Base64 encoded subscription format**. Add URL directly to your VPN client.
 
@@ -36,11 +36,11 @@ https://raw.githubusercontent.com/Baarcuda/vpn-configs/master/top100-vless.txt
 
 | Protocol | Countries | Configs |
 |----------|:---------:|:-------:|
-| VLESS | 8 | 117 |
-| VMESS | 6 | 18 |
-| TROJAN | 8 | 33 |
-| SS | 7 | 93 |
-| HY2 | 5 | 23 |
+| VLESS | 8 | 134 |
+| VMESS | 7 | 19 |
+| TROJAN | 8 | 28 |
+| SS | 8 | 101 |
+| HY2 | 6 | 27 |
 
 ---
 
