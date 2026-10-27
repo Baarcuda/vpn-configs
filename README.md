@@ -2,7 +2,7 @@
 
 ![Configs](https://img.shields.io/badge/working%20configs-309-green) ![Top200](https://img.shields.io/badge/top200-speed_first-orange)
 
-Updated: `2026-10-27 11:33 UTC`
+Updated: `2026-10-27 11:53 UTC`
 
 > Configs are **Base64 encoded subscription format** (VLESS, VMess, Trojan, Hysteria2). Sorted strictly by **Download Speed**.
 
@@ -19,11 +19,11 @@ https://raw.githubusercontent.com/Baarcuda/vpn-configs/master/top100.txt
 
 ---
 
-## 🇷🇺 RU IP VPN (Российские IP)
+<p align="left"><img src="./title_ru.svg" alt="RU IP VPN (Российские IP)" width="460" /></p>
 
-Выделенная подписка с российскими IP-адресами (для доступа к Госуслугам, банкам и сайтам РФ из-за границы). С подписью `[RU IP VPN]`:
+RU IP VPN
 
-📄 **[ru.txt](./ru.txt)** · **[ru-vpn.txt](./ru-vpn.txt)**
+📄 **[ru.txt](./ru.txt)**
 
 **Subscription URL:**
 ```
