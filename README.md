@@ -1,16 +1,16 @@
 <p align="left"><img src="./header.svg" alt="VPN Configs Black Lists" width="650" /></p>
 
-![Configs](https://img.shields.io/badge/working%20configs-309-green) ![Top100](https://img.shields.io/badge/top100-fastest-orange)
+![Configs](https://img.shields.io/badge/working%20configs-310-green) ![Top200](https://img.shields.io/badge/top200-speed_first-orange)
 
-Updated: `2026-10-27 10:00 UTC`
+Updated: `2026-10-27 11:07 UTC`
 
-> Configs are **Base64 encoded subscription format**. Add URL directly to your VPN client.
+> Configs are **Base64 encoded subscription format** (VLESS, VMess, Trojan, Hysteria2). Sorted strictly by **Download Speed**.
 
-<p align="left"><img src="./title_top100.svg" alt="Top 100 Fastest Configs" width="460" /></p>
+<p align="left"><img src="./title_top200.svg" alt="Top 200 Fastest Configs" width="460" /></p>
 
-Best configs sorted by latency & speed across all protocols:
+Best 200 configs sorted strictly by **Download Speed** across VLESS, VMess, Trojan, Hysteria2 (including XX and no-geo servers, SS excluded):
 
-📄 **[top100.txt](./top100.txt)**
+📄 **[top100.txt](./top100.txt)** (200 configs) · **[top200.txt](./top200.txt)**
 
 **Subscription URL:**
 ```
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/Baarcuda/vpn-configs/master/top100.txt
 
 <p align="left"><img src="./title_vless.svg" alt="Top 100 Fastest VLESS" width="460" /></p>
 
-Best VLESS configs sorted by speed & latency:
+Best VLESS configs sorted strictly by **Download Speed**:
 
 📄 **[top100-vless.txt](./top100-vless.txt)**
 
@@ -36,10 +36,9 @@ https://raw.githubusercontent.com/Baarcuda/vpn-configs/master/top100-vless.txt
 
 | Protocol | Countries | Configs |
 |----------|:---------:|:-------:|
-| VLESS | 8 | 134 |
-| VMESS | 7 | 19 |
-| TROJAN | 8 | 28 |
-| SS | 8 | 101 |
+| VLESS | 9 | 161 |
+| VMESS | 8 | 44 |
+| TROJAN | 9 | 78 |
 | HY2 | 6 | 27 |
 
 ---
