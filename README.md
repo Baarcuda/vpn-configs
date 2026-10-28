@@ -1,8 +1,8 @@
 <p align="left"><img src="./header.svg" alt="VPN Configs Black Lists" width="650" /></p>
 
-![Configs](https://img.shields.io/badge/working%20configs-304-green) ![Top200](https://img.shields.io/badge/top200-speed_first-orange)
+![Configs](https://img.shields.io/badge/working%20configs-289-green) ![Top200](https://img.shields.io/badge/top200-speed_first-orange)
 
-Updated: `2026-10-28 10:00 UTC`
+Updated: `2026-10-28 13:00 UTC`
 
 > Configs are **Base64 encoded subscription format** (VLESS, VMess, Trojan, Hysteria2). Sorted strictly by **Download Speed**.
 
@@ -49,10 +49,10 @@ https://raw.githubusercontent.com/Baarcuda/vpn-configs/master/top100-vless.txt
 
 | Protocol | Countries | Configs |
 |----------|:---------:|:-------:|
-| VLESS | 10 | 195 |
-| VMESS | 7 | 36 |
-| TROJAN | 7 | 43 |
-| HY2 | 7 | 30 |
+| VLESS | 10 | 185 |
+| VMESS | 6 | 35 |
+| TROJAN | 7 | 42 |
+| HY2 | 6 | 27 |
 
 ---
 
